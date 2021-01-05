@@ -1,0 +1,14 @@
+https://www.upwork.com/ab/jobs/search/saved/details/~018690616cda24ebe9/?sort=recency
+
+We need some help collecting information on competitor pricing across a number of products.
+
+We need help:
+
+1 - Collect name, pricing and quantity information from product listings from each website.
+2 - Each website only needs one price for each kind of tea.
+3 - Select the most inexpensive price from each category.
+4 - Loose leaf tea's should use grams for their quantity unit.
+5 - Tea bags / tea sachets should use tea bags for their quantity unit.
+6 - If the product has different quantities use the smallest quantity available.
+
+Includes 16 websites and 6 products per website.
