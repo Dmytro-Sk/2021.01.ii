@@ -6,7 +6,8 @@ class Converter:
     def __init__(self, args):
         self.args = args
 
-    def open_file(self, column) -> list:
+    @staticmethod
+    def open_file(column) -> list:
         with open(f"../req_data.csv") as f:
             csv_reader = csv.reader(f)
             next(csv_reader)
@@ -85,7 +86,7 @@ class Converter:
 """Put and initial data"""
 
 data = {
-    'spiders_names': ['vrisko_gr_companies', 'vrisko_gr_urls'],
+    'spiders_names': ['songtea_com'],
 }
 
 con = Converter(data)

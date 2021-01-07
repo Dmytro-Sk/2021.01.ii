@@ -1,0 +1,62 @@
+------------------ GET LOCATORS ------------------
+
+COMPANY_TEA_CATEGORY = ''
+TEA_NAME = ''
+PRICE_USD = ''
+AMOUNT_G = ''
+AMOUNT_TEA_BAGS = ''
+PRODUCT_PAGE_LINK = ''
+COMPANY_HOME_PAGE = ''
+
+
+-------------- GET CUSTOM SETTINGS ---------------
+
+	custom_settings = {
+		'FEED_EXPORT_BATCH_ITEM_COUNT': 100,
+		'FEED_FORMAT': 'csv',
+		'FEED_URI': '../../iii_results/com/%(batch_id)02d-songtea_com.csv',
+		'FEED_EXPORT_FIELDS': [
+			'company_tea_category',
+			'tea_name',
+			'price_usd',
+			'amount_g',
+			'amount_tea_bags',
+			'product_page_link',
+			'company_home_page',
+		]
+	}
+
+
+--------------- GET PARSE ELEMENTS ---------------
+
+company_tea_category = response.xpath(Locators.COMPANY_TEA_CATEGORY).get()
+tea_name = response.xpath(Locators.TEA_NAME).get()
+price_usd = response.xpath(Locators.PRICE_USD).get()
+amount_g = response.xpath(Locators.AMOUNT_G).get()
+amount_tea_bags = response.xpath(Locators.AMOUNT_TEA_BAGS).get()
+product_page_link = response.xpath(Locators.PRODUCT_PAGE_LINK).get()
+company_home_page = response.xpath(Locators.COMPANY_HOME_PAGE).get()
+
+
+------------ GET PARSE ITEMS ELEMENTS ------------
+
+items['company_tea_category'] = company_tea_category
+items['tea_name'] = tea_name
+items['price_usd'] = price_usd
+items['amount_g'] = amount_g
+items['amount_tea_bags'] = amount_tea_bags
+items['product_page_link'] = product_page_link
+items['company_home_page'] = company_home_page
+
+
+------------------- GET ITEMS --------------------
+
+company_tea_category = scrapy.Field()
+tea_name = scrapy.Field()
+price_usd = scrapy.Field()
+amount_g = scrapy.Field()
+amount_tea_bags = scrapy.Field()
+product_page_link = scrapy.Field()
+company_home_page = scrapy.Field()
+
+
