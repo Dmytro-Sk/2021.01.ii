@@ -15,5 +15,3 @@ class SongTeaItem(scrapy.Item):
     amount_tea_bags = scrapy.Field()
     product_page_link = scrapy.Field()
     company_home_page = scrapy.Field()
-
-    tea_url = scrapy.Field()

@@ -1,0 +1,383 @@
+{
+  "id": 760640438360,
+  "title": "Fragrant Leaf",
+  "handle": "fragrant-leaf",
+  "description": "<p class=\"product-notes\">Notes of cucumber, nasturtium, and golden raisin.</p>\n<p class=\"tea-summary\">Green tea from Sichuan, China\u30fbApril 2020\u30fb\u5ddd\u5c0f\u8449\u30fbOrganic</p>\n<p>The base cultivar for this tea is a small leaf variety indigenous to Sichuan called chuan xiao ye. The elevation and latitude where this cultivar grows affect the character of the crafted tea. In southern Sichuan, it is more intense, with a distinct bitterness; in the north, where our Fragrant Leaf is grown, the cultivar expresses a bright sweetness and a remarkable floral finish.</p>\n<p>To craft Fragrant Leaf, the leaves were shade-withered, then drum roasted at a high fire to prevent oxidation before a final, low fire roast. The resulting tea is unassumingly beautiful, with thin, short strands of dark green leaves that brighten and unravel when steeped.</p>\n<p class=\"brew-summary\">Brew: 4 grams\u30fb150 ml\u30fb180\u00b0 F\u30fb1 min</p>\n<p class=\"brew-detail\">This tea takes well to short infusions. The 180\u00b0 F temperature highlights this tea's aromatics, while the shorter steep keeps what little astringency this tea has in check.</p>",
+  "published_at": "2019-06-17T21:56:47-07:00",
+  "created_at": "2018-05-20T14:14:02-07:00",
+  "vendor": "Song Tea",
+  "type": "Tea",
+  "tags": [
+    "Fruit",
+    "Grass",
+    "Green",
+    "New_Menu",
+    "Retail",
+    "Sichuan",
+    "Tea",
+    "Wood"
+  ],
+  "price": 1300,
+  "price_min": 1300,
+  "price_max": 8400,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 12303449653336,
+      "title": "30g pouch",
+      "option1": "30g pouch",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-30g",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Fragrant Leaf - 30g pouch",
+      "public_title": "30g pouch",
+      "options": [
+        "30g pouch"
+      ],
+      "price": 1300,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_quantity": 878,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 12303449686104,
+      "title": "60g pouch",
+      "option1": "60g pouch",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-60g",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Fragrant Leaf - 60g pouch",
+      "public_title": "60g pouch",
+      "options": [
+        "60g pouch"
+      ],
+      "price": 2100,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_quantity": 895,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 12303449718872,
+      "title": "120g pouch",
+      "option1": "120g pouch",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-120g",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Fragrant Leaf - 120g pouch",
+      "public_title": "120g pouch",
+      "options": [
+        "120g pouch"
+      ],
+      "price": 4200,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_quantity": 948,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 12303449784408,
+      "title": "240g pouch",
+      "option1": "240g pouch",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-240g",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Fragrant Leaf - 240g pouch",
+      "public_title": "240g pouch",
+      "options": [
+        "240g pouch"
+      ],
+      "price": 8400,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_quantity": 984,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 12303449849944,
+      "title": "Kraft Canister / 60g",
+      "option1": "Kraft Canister / 60g",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-gc",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 22998493298873,
+        "product_id": 760640438360,
+        "position": 4,
+        "created_at": "2020-12-06T16:55:01-08:00",
+        "updated_at": "2020-12-06T16:55:01-08:00",
+        "alt": null,
+        "width": 1300,
+        "height": 976,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/kraft_pouch_978ced65-3b3a-4977-837a-a79b47dc11e4.jpg?v=1607302501",
+        "variant_ids": [
+          12303449849944
+        ]
+      },
+      "available": true,
+      "name": "Fragrant Leaf - Kraft Canister / 60g",
+      "public_title": "Kraft Canister / 60g",
+      "options": [
+        "Kraft Canister / 60g"
+      ],
+      "price": 2300,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_quantity": 976,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 15169095598265,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.332,
+          "height": 976,
+          "width": 1300,
+          "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/kraft_pouch_978ced65-3b3a-4977-837a-a79b47dc11e4.jpg?v=1607302501"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 38399864963257,
+      "title": "Kato Canister in Pink / 60g",
+      "option1": "Kato Canister in Pink / 60g",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-60g-kato-p",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 23010750660793,
+        "product_id": 760640438360,
+        "position": 5,
+        "created_at": "2020-12-07T19:45:39-08:00",
+        "updated_at": "2020-12-07T19:45:39-08:00",
+        "alt": null,
+        "width": 1300,
+        "height": 976,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139",
+        "variant_ids": [
+          38399864963257,
+          38399865487545
+        ]
+      },
+      "available": true,
+      "name": "Fragrant Leaf - Kato Canister in Pink / 60g",
+      "public_title": "Kato Canister in Pink / 60g",
+      "options": [
+        "Kato Canister in Pink / 60g"
+      ],
+      "price": 5300,
+      "weight": 283,
+      "compare_at_price": null,
+      "inventory_quantity": 19,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 15181361348793,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 1.332,
+          "height": 976,
+          "width": 1300,
+          "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 38399865487545,
+      "title": "Kato Canister in White / 60g",
+      "option1": "Kato Canister in White / 60g",
+      "option2": null,
+      "option3": null,
+      "sku": "g-0011-60g-kato-w",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 23010750660793,
+        "product_id": 760640438360,
+        "position": 5,
+        "created_at": "2020-12-07T19:45:39-08:00",
+        "updated_at": "2020-12-07T19:45:39-08:00",
+        "alt": null,
+        "width": 1300,
+        "height": 976,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139",
+        "variant_ids": [
+          38399864963257,
+          38399865487545
+        ]
+      },
+      "available": true,
+      "name": "Fragrant Leaf - Kato Canister in White / 60g",
+      "public_title": "Kato Canister in White / 60g",
+      "options": [
+        "Kato Canister in White / 60g"
+      ],
+      "price": 5300,
+      "weight": 283,
+      "compare_at_price": null,
+      "inventory_quantity": 17,
+      "inventory_management": "shopify",
+      "inventory_policy": "deny",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 15181361348793,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 1.332,
+          "height": 976,
+          "width": 1300,
+          "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1728/6899/products/g-0011_1.jpg?v=1529447588",
+    "//cdn.shopify.com/s/files/1/1728/6899/products/g-0011_2_8c10d394-328a-4c96-99e9-085ba4c0bc2d.jpg?v=1529447588",
+    "//cdn.shopify.com/s/files/1/1728/6899/products/g-0001_3_635a7463-f3ff-43bc-ac19-fea9f6895b15.jpg?v=1529447588",
+    "//cdn.shopify.com/s/files/1/1728/6899/products/kraft_pouch_978ced65-3b3a-4977-837a-a79b47dc11e4.jpg?v=1607302501",
+    "//cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1728/6899/products/g-0011_1.jpg?v=1529447588",
+  "options": [
+    "Size"
+  ],
+  "media": [
+    {
+      "alt": null,
+      "id": 736678641752,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.332,
+        "height": 976,
+        "width": 1300,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/g-0011_1.jpg?v=1569055527"
+      },
+      "aspect_ratio": 1.332,
+      "height": 976,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/g-0011_1.jpg?v=1569055527",
+      "width": 1300
+    },
+    {
+      "alt": null,
+      "id": 743912702040,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.332,
+        "height": 976,
+        "width": 1300,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/g-0011_2_8c10d394-328a-4c96-99e9-085ba4c0bc2d.jpg?v=1569056927"
+      },
+      "aspect_ratio": 1.332,
+      "height": 976,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/g-0011_2_8c10d394-328a-4c96-99e9-085ba4c0bc2d.jpg?v=1569056927",
+      "width": 1300
+    },
+    {
+      "alt": null,
+      "id": 736012042328,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.332,
+        "height": 976,
+        "width": 1300,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/g-0001_3_635a7463-f3ff-43bc-ac19-fea9f6895b15.jpg?v=1569055394"
+      },
+      "aspect_ratio": 1.332,
+      "height": 976,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/g-0001_3_635a7463-f3ff-43bc-ac19-fea9f6895b15.jpg?v=1569055394",
+      "width": 1300
+    },
+    {
+      "alt": null,
+      "id": 15169095598265,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1.332,
+        "height": 976,
+        "width": 1300,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/kraft_pouch_978ced65-3b3a-4977-837a-a79b47dc11e4.jpg?v=1607302501"
+      },
+      "aspect_ratio": 1.332,
+      "height": 976,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/kraft_pouch_978ced65-3b3a-4977-837a-a79b47dc11e4.jpg?v=1607302501",
+      "width": 1300
+    },
+    {
+      "alt": null,
+      "id": 15181361348793,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1.332,
+        "height": 976,
+        "width": 1300,
+        "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139"
+      },
+      "aspect_ratio": 1.332,
+      "height": 976,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1728/6899/products/pink_white_1_1be576f0-bd3a-4c8e-a580-646b4b9a928f.jpg?v=1607399139",
+      "width": 1300
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [],
+  "content": "<p class=\"product-notes\">Notes of cucumber, nasturtium, and golden raisin.</p>\n<p class=\"tea-summary\">Green tea from Sichuan, China\u30fbApril 2020\u30fb\u5ddd\u5c0f\u8449\u30fbOrganic</p>\n<p>The base cultivar for this tea is a small leaf variety indigenous to Sichuan called chuan xiao ye. The elevation and latitude where this cultivar grows affect the character of the crafted tea. In southern Sichuan, it is more intense, with a distinct bitterness; in the north, where our Fragrant Leaf is grown, the cultivar expresses a bright sweetness and a remarkable floral finish.</p>\n<p>To craft Fragrant Leaf, the leaves were shade-withered, then drum roasted at a high fire to prevent oxidation before a final, low fire roast. The resulting tea is unassumingly beautiful, with thin, short strands of dark green leaves that brighten and unravel when steeped.</p>\n<p class=\"brew-summary\">Brew: 4 grams\u30fb150 ml\u30fb180\u00b0 F\u30fb1 min</p>\n<p class=\"brew-detail\">This tea takes well to short infusions. The 180\u00b0 F temperature highlights this tea's aromatics, while the shorter steep keeps what little astringency this tea has in check.</p>"
+}
